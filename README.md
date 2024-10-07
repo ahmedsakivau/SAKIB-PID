@@ -1,6 +1,6 @@
 # SAKIB-PID 
 
-git clone https://github.com/ahmedsakivau/SAKIB-PID/blob/main/FB-KING-1.py
+git clone https://github.com/ahmedsakivau/SAKIB-PID
 
 cd SAKIB-PID
 
