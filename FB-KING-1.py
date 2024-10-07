@@ -262,7 +262,12 @@ def rcrack1(uid,pwx,tl):
     'user-agent': 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',
     'viewport-width': '980',
 }
-    # 'cookie': 'datr=E74nZPAr1N4lHnO5Z23vj8-3; sb=E74nZEslp3CcUIIi8Pt81iCR; m_pixel_ratio=1.75; wd=412x805; fr=0qe97yfeoNUBkUDS1..BkJ74b.MC.AAA.0.0.BkJ75G.AWV8YvT3ZUw',
+    # 'cookie':'datr': 'bIIDZ08GwSQz8plptsjHBAkD',
+    'sb': 'bIIDZwqfuzZ_zCIVl1Ar4LHh',
+    'm_pixel_ratio': '1.4375',
+    'x-referer': 'eyJyIjoiL3IucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtYmFzaWMuZmFjZWJvb2suY29tJTJGbG9naW4uY29tJmNpZD0xMDQmc29mdD1oamsiLCJoIjoiL3IucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtYmFzaWMuZmFjZWJvb2suY29tJTJGbG9naW4uY29tJmNpZD0xMDQmc29mdD1oamsiLCJzIjoibWJhc2ljIn0%3D',
+    'wd': '502x997',
+    'fr': '0xuZpJXkSr4nyRY6b..BnA4Js..AAA.0.0.BnA4Pj.AWVMcEd41OA',
     'pragma': 'no-cache',
     'referer': 'https://www.google.com/',
     'sec-ch-ua': '"Chromium";v="111", "Not(A:Brand";v="8"',
